@@ -1,6 +1,6 @@
 {
   "name": "jack-auth-stormpath-passport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Olympus Plugin for Stormpath Authentication via Passport",
   "main": "lib/index.js",
   "scripts": {
