@@ -8,6 +8,13 @@
   },
   "author": "Dan Crews <crewsd@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "jack-stack",
+    "plugin",
+    "authentication",
+    "stormpath",
+    "passport"
+  ],
   "peerDependencies": {
     "jack-stack": "^2.0.0"
   },
